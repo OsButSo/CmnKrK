@@ -1,6 +1,6 @@
+# KrkCompany
+https://s8.uupload.ir/files/storepageheader2_ezh7.gif
 
-# OnkCompany
-A online krk for lc1mpany.
 ## How to download
 
  - First get the game from a or a site
