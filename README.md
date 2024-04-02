@@ -1,5 +1,5 @@
 # KrkCompany
-[KrkCompany](https://s8.uupload.ir/files/storepageheader2_ezh7.gif)
+![](https://s8.uupload.ir/files/storepageheader2_ezh7.gif)
 
 ## How to download
 
